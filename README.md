@@ -1,4 +1,4 @@
-# LCD_LIB_8051_MODELSIM
+# LCD_LIB_8051_MULTISIM
 Library to interface 16x2 LCD  with 8051 microcontroller in MULTISIM (HI-TECH C COMPILER)
 
 ![alt text](https://i.ibb.co/0nz3FbW/image-2021-04-11-205201.png)
